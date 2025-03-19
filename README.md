@@ -1,2 +1,2 @@
 # css-sample
-Created with CodeSandbox
+いろいろなCSSの使い方を試した時のリポジトリ
